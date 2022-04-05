@@ -1,6 +1,6 @@
 <#
 .Synopsis
-   SpringShell scan of ips/hosts 
+   SpringShell scan of ips/hosts
 .DESCRIPTION
    Long description
 .EXAMPLE
@@ -11,6 +11,7 @@
    CSV file output provided
 .NOTES
    Author: Steven Bracamonte
+   REF: https://www.microsoft.com/security/blog/2022/04/04/springshell-rce-vulnerability-guidance-for-protecting-against-and-detecting-cve-2022-22965/
 .COMPONENT
    The component this cmdlet belongs to
 .ROLE
